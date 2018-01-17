@@ -20,7 +20,7 @@ Here is a general overview of some of the more important directories in the proj
 │   │   ├── Scripts                 // all custom game scripts
 │   │   │   ├── Controls                // scripts related to the game controls
 │   │   │   ├── Objects                 // scripts related to the objects that can be created
-│   │   │   ├── SceneManagement         // scripts related to manageing scene state
+│   │   │   ├── SceneManagement         // scripts related to managing scene state
 │   │   │   ├── Tutorial                // scripts related to running the tutorial
 │   │   │   └── UI                      // scripts related to any menuing 
 │   │   ├── SteamVR                 // the SteamVR plugin
@@ -28,4 +28,4 @@ Here is a general overview of some of the more important directories in the proj
 │   └── ProjectSettings         // contains configuration files for the project
 ```
 
-For additional help understanding the code you can check out [this blog](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) written by [Kyle Craig](https://twitter.com/thekylecraig) about how to implement this type of speech control in your own projects.
+For additional help to understanding the code you can check out [this blog](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) written by [Kyle Craig](https://twitter.com/thekylecraig) about how to implement this type of speech control in your own projects.
